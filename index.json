@@ -2,17 +2,25 @@
   {
     "id": "1",
     "title": "Test Title",
-    "description":"This is note 1 11",
-    "date_added":"2022-05-01",
-    "deadline":"2022-05-25",
-    "date_completed":""
+    "description": "This is note 1 11",
+    "date_added": "2022-05-01",
+    "deadline": "2022-05-25",
+    "date_completed": ""
   },
   {
     "id": "2",
-    "title": "Marvin ",
-    "description":"Updated note",
-    "date_added":"2022-05-01",
-    "deadline":"2022-05-25",
-    "date_completed":""
+    "title": "Evans ",
+    "description": "Updated note",
+    "date_added": "2022-05-01",
+    "deadline": "2022-05-25",
+    "date_completed": ""
+  },
+  {
+    "id": "3",
+    "title": "Finish up on react native ",
+    "description": "Finish up on react native work.",
+    "date_added": "2022-05-01",
+    "deadline": "2022-05-25",
+    "date_completed": ""
   }
 ]
